@@ -1,24 +1,24 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Gaël HF",
+		name: "Gaël HF",
+		email: "gael.31.hf@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
+		twitter: "https://twitter.com/gaelhf_01",
+		github: "https://github.com/GaelHF",
+		linkedin: "https://www.linkedin.com/in/gaelhf/",
+		instagram: "https://instagram.com/gael___hf",
+		stackoverflow: "https://stackoverflow.com/users/22133547/gaël-hébert-furoy",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Gaël Hébert-Furoy",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Passionate about programming and problem-solving, I create games, applications, and web projects with a focus on innovation and efficiency. I enjoy blending game design, algorithms, and optimization to deliver unique and immersive experiences. From minimalist cooperative games to fast-paced action shooters and experimental social platforms, I strive to bring creative ideas to life with a structured and methodical approach. My work balances functionality and originality, ensuring well-designed, maintainable, and high-performance projects. Always eager to learn and explore new concepts, I take on challenges that push the boundaries of what’s possible, whether in game development, application design, or interactive experiences.",
 	},
 
 	about: {
@@ -35,49 +35,58 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Clippy",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Clippy from Windows 97 is back ! It's a Python Vocal Assisstant",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/GaelHF/Clippy",
 		},
 
 		{
-			title: "Project 3",
+			title: "FlipperDB",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Flipper Zero File Database",
+			logo: "https://png.pngtree.com/element_our/png/20181227/database-glyph-black-icon-png_291831.jpg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/GaelHF/FlipperDB",
 		},
 
 		{
-			title: "Project 4",
+			title: "YouTool",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Downloading stuff from YouTube is hard... But not anymore !",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://github.com/GaelHF/YouTool",
+		},
+
+		{
+			title: "Desktop.io",
+			description:
+				"Desktop Application for io games",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/GaelHF/desktopio",
 		},
 
 		{
-			title: "Project 5",
+			title: "Vibe",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Web Music Library",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/GaelHF/Vibe",
 		},
+
+		{
+			title: "ÉrabliChat",
+			description:
+				"PHP Instant Chat For My School",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.png",
+			linkText: "View Project",
+			link: "https://github.com/GaelHF/ErabliChat"
+		}
 	],
 };
 
